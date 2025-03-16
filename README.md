@@ -1,6 +1,5 @@
 <h1 align="left">Hi 👋, I'm Sergey</h1>
 
-# 💫 About Me:
 When i got acquainted with java, algorithms and data structures i realized that it was love🖤
 
 
